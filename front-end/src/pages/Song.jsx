@@ -49,7 +49,12 @@ const Song = () => {
           />
         </Link>
 
-        <Player duration={duration} randomIdFromArtist={randomIdFromArtist} randomId2FromArtist={randomId2FromArtist}/>
+        <Player
+          duration={duration}
+          randomIdFromArtist={randomIdFromArtist}
+          randomId2FromArtist={randomId2FromArtist}
+          audio={audio}
+        />
 
         <div>
           <p className="song__name">{name}</p>
