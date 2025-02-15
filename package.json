@@ -17,5 +17,8 @@
     "url": "https://github.com/joaorobertoFG/spotifyProject/issues"
   },
   "homepage": "https://github.com/joaorobertoFG/spotifyProject#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.13.0"
+  }
 }
