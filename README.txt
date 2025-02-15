@@ -9,4 +9,6 @@ MongoDB
 Node.js
 Vite
 
+Deploy: https://spotify-project-jbgv.onrender.com
+
 icons: https://fontawesome.com/
