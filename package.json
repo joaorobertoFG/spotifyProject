@@ -19,6 +19,7 @@
   "homepage": "https://github.com/joaorobertoFG/spotifyProject#readme",
   "description": "",
   "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "mongodb": "^6.13.0"
   }
 }
